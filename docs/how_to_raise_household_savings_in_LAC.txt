@@ -1,0 +1,935 @@
+1. Introduction
+Much of the development efforts in the last decades have focused on alleviating the credit
+constraints that poorer households face due to their limited access to formal financial systems.
+Although microcredit has successfully reached underserved populations all over the developing
+world, its impact has been positive but quite limited (Duflo, 2015). Moreover, the outreach depth
+of microfinance institutions (MFIs) has been restricted since their inception. First, their selfsustainability
+goals force MFIs to give in to trade-offs between outreach and profitability.
+Second, they target micro entrepreneurs with the goal of financing productive investments. As a
+consequence, MFIs tend to impose rigid contracts which are not compatible with liquidity needs
+resulting, for example, from the unexpected health and income shocks faced by households.
+In recent years, financial inclusion efforts have thus recognized the importance of savings
+as a development tool, especially in settings where financial markets are thin. Among poor
+households, savings are a means to reduce their exposure to negative shocks, allowing them to
+manage risks more effectively, step out of poverty, and build a better life. Savings are also
+important among the better off, since they promote more productive investments and enable
+households to move away from short-term decision-making.
+Around the developing world, several governments have fostered the massive
+introduction and use of simplified saving accounts.1 These big pushes have been effective in
+banking, in the most basic definition of the term, the unbanked. However, even when supply side
+constraints are minimized, demand-side constraints such as social pressure, lack of knowledge
+and/or information, and behavioral biases may still persist, making it hard for households to
+reach their saving goals.
+Any national financial inclusion strategy that intends to go beyond counting the number
+of accounts opened has to consider the factors that limit household savings. On one hand, formal
+financial institutions should keep working hard to design saving products that fit households’ demands and that are simple and easy to use. On the other hand, the provision of financial
+services must take into account the interaction between saving and credit constraints in a given
+market, and its effects on households’ financial portfolios and their demand for financial
+services. Though credit and saving are often viewed as opposite behaviors, the empirical
+evidence shows that households choose to save and borrow simultaneously. Under liquidity
+constraints, both instruments provide a tool for financing lump-sum expenditures since they both
+require a regular schedule of deposits and facilitate a single withdrawal at a given point in time.
+(Afzal et al., 2015)
+As established in Chapter 2 of Cavallo and Serebrisky (2016), household saving rates in
+Latin America and the Caribbean (LAC) are low compared to other regions. This paper evaluates
+some of the difficulties that households in the region encounter when trying to save, in order to
+analyze the effects of these constraints on their financial portfolios and identify strategies that
+may boost household saving rates.
+As Chapter 3 of Cavallo and Serebrisky (2016) provides evidence on the effects of
+supply-side constraints on private savings, both in terms of geographic proximity and costs and
+inefficiencies of formal financial systems in Latin America and the Caribbean, this paper will
+naturally focus on demand-side constraints that households face when making saving decisions.
+First, it will review the main constraints that agents face on saving formally, including
+transaction costs as well as trust in financial systems and regulatory barriers. Second, it will
+focus on constraints on saving in general, either formally or informally, which include social
+pressure and intra-household allocation issues, information and knowledge gaps, and behavioral
+biases in making financial choices.
+In particular, special emphasis will be placed on how special features of individual
+behavior can impact savings. Rather than presenting a horserace between demand-side
+constraints in the region, the focus is placed on behavioral constraints since they have not been
+extensively studied in Latin America and the Caribbean yet and their alleviation could yield large
+welfare gains at relatively low costs. The paper will thus review important advances in the field
+of behavioral economics and present new available evidence along these lines by analyzing the
+role that individual-level traits such as time preferences, lack of self-control, inertia and limited
+attention have in shaping financial choices under a given decision-making environment. The core of the paper will focus on households from lower income deciles since it is well
+documented that they face higher levels of exclusion from credit and insurance markets, higher
+income volatility, and higher levels of vulnerability to unexpected shocks. Thus, the poor also
+have more pressing needs than richer households to maintain a stock of savings that allows them
+to deal with (anticipated and/or unanticipated) income and expenditure fluctuations.2 Poverty can
+also impact individuals’ ability to process information, manage their time efficiently, or resist
+temptation (Mullainathan and Shafir, 2014), thus limiting their ability to make sound financial
+choices, forecast, or plan ahead.
+2. Constraints on Saving
+Several factors can limit households’ saving choices. In what follows we review these constraints
+distinguishing between those that affect the choice to save formally and those with a more
+general effect on saving behavior. Table 1 presents a summary of recent selected experimental
+evidence on interventions that tackle diverse constraints such as transaction costs, lack of trust
+and regulation, information and knowledge gaps, social pressure and behavioral biases. 2.1 Constraints on Saving Formally
+While it has already been established that the provision of formal financial services is crucial for
+the efficient intermediation of savings in an economy, transaction costs in accessing and using
+these services can impose important barriers on households. Ranging from opening fees and
+minimum balance requirements to transaction and withdrawal fees, the monetary costs that
+managing a saving account impose may discourage its adoption and use, especially when the
+yields offered do not compensate these costs.3
+Empirical evidence in other regions shows that the reduction of pecuniary costs can lead
+to large effects on the adoption of formal saving products. On one hand, subsidies given to
+reduce the cost of opening and maintaining a bank account yield take-up rates as high as 82
+percent in Nepal (Prina, 2015) and between 47 percent and 62 percent in Kenya (Dupas et al.,
+2013; Dupas and Robinson 2013a). In the Philippines, interventions aimed at reducing these
+transaction costs also have positive but more modest effects in the adoption of formal saving
+accounts (Ashraf, Karlan and Yin, 2006). On the other hand, better financial conditions such as
+higher interest rates have a positive but limited effect on the adoption and usage of formal saving
+accounts in Chile (Kast, Meier and Pomeranz, 2012) and the Philippines (Karlan and Zinman,
+2014). Even when the marginal yields introduced are large and subsidized, take-up rates often
+respond little to these offers.
+In recent years, there have been important regulatory advances in the region that have
+tried to promote the provision of basic or simplified saving accounts that minimize initial access
+barriers. These accounts attempt to minimize the transaction costs related to opening an account
+by reducing the load of paperwork required, authorizing their activation through non-traditional
+channels such as cellphones or bank agents, or relaxing minimum balance requirements, for
+example. Nevertheless, the region still faces challenges in the actual provision of these accounts
+(Armijo de Vega et al., 2013): by 2013, Mexico and Colombia each reported only three formal
+financial institutions offering a product with the characteristics of a simplified account.
+Other interesting innovations aimed at reducing the transaction costs of opening and
+using financial services have been introduced in the region. Formal financial institutions have
+tried to increase their coverage at low costs while reaching underserved geographical areas by promoting the expansion of agent banking and the use of virtual technologies, for example.
+Nevertheless, regulation has sometimes gotten in the way of financial inclusion efforts of this
+sort in the region, delaying or limiting their reach at initial stages of their introduction. Although
+slowly, regulation did adapt effectively in the case of agent banking: starting in 2005, several
+countries in the region including Brazil, Colombia, and Peru introduced changes to their
+regulatory frameworks that authorized the use of agent banking. Bolivia and Mexico only
+introduced these changes in 2009, followed by Guatemala and Paraguay in 2010 and 2011,
+respectively (Alliance for Financial Inclusion, 2014).
+There is an urgent need for regulation in the region to catch up quickly in the arena of
+virtual technologies (e.g., mobile wallets and phone banking, among others). These instruments
+have proven successful in other regions such as Africa, where geographical barriers are also
+relevant. Though there is great potential for their use in LAC and they are in fact becoming
+extremely popular in several countries, it was only in 2009 that efforts in the region to modify
+the current regulations started. The main issue with the current setting is that most countries’
+regulations state that only authorized financial institutions are allowed to collect deposits from
+the public. And even though mobile services only intermediate money, they somehow store
+deposits for unlimited periods of time between transactions. To overcome this barrier, countries
+in the region have adopted different strategies such as generating new licenses for specialized
+operators (as in the case of Bolivia and Peru) or adapting the definition of deposits (Guatemala
+and Mexico). Still, many countries in LAC have regulatory gaps in these new technologies, and
+there is an urgent need to close those gaps in order to take full advantage of the potential that
+these innovations may have on the topic of financial inclusion.
+Credible and well-designed regulation may help in addressing what is perceived by many
+as a major problem in the development of a well-functioning and inclusive financial system, lack
+of trust, which can also impose a formidable barrier to save in formal financial institutions. In
+particular, LAC’s long record of financial crises and bank runs may well exacerbate mistrust in
+banks in the region. Indeed, according to the Global Financial Inclusion (Global Findex)
+database (Demirgüç-Kunt and Klapper, 2012), lack of trust in banks is the second most important
+justification in the region for not having a formal account, only behind “lack of money” in the
+ranking. In fact, Figure 1 shows that LAC, followed closely by Europe and Central Asia, is the
+region in which this barrier is the most prevalent, especially when compared to East Asia and Pacific. Unfortunately, there is no causal evidence to date linking the lack of trust in banks with
+the level of formal savings in an economy. Since trust is the result of complex processes that
+result from years of history interacting with other contextual factors, it is hard to isolate the
+effect of such a potential barrier on formal saving rates. Nevertheless, lack of trust in financial institutions seems to be a salient issue in the region
+and, as such, demands further analysis so as to identify ways in which this potential barrier to
+formal savings can be minimized. Although financial crises certainly play an important role in
+building up distrust in the region, it is unclear how much of it is actually related to informational
+or knowledge gaps. After all, it is hard to ask someone to trust something they do not know about
+or understand very little about.
+García et al. (2013) review all available information for LAC and provide a rather
+disappointing glimpse of where the region stands in terms of financial literacy. The majority of
+the population in Chile, Colombia, Guatemala, Mexico and Peru, for instance, does not
+understand the term “interest rate.” Inflation is another concept highly misunderstood and thus
+very few are able to incorporate it into their calculations of money’s purchasing power. Evidence from survey experiments conducted in Peru, Mexico, and Brazil point out the
+potential effect that the reduction of informational gaps could have on the adoption of formal
+saving products.4 Frisancho and Karver (2015) evaluate the effect of providing information on
+bank products and yields on the hypothetical choice to open a formal saving account among poor
+and middle-class households (see Table 2). In Peru, they find a statistically significant but
+meager increase of 8 percentage points in the probability of opening a savings account after
+providing information on branch/bank agent proximity and withdrawal restrictions. When
+households in Mexico were given the same information plus the yield in Mexican pesos, an even
+more modest effect of 4 percentage points on the probability of opening an account is observed.
+In Brazil, the provision of information on branch/bank agent proximity and withdrawal
+restrictions has a positive but insignificant effect. Beyond a few notable exceptions, the evidence on financial literacy interventions is so far
+discouraging. A meta-analysis conducted by Fernandes, Lynch and Netemeyer (2014) found
+extremely low causal effects of financial training programs on financial choices such as savings,
+planning for retirement, absence of debt, investment decisions, cash flow management, and
+financial inertia. However, the wide variation in target population, delivery methods, topics
+covered, and pedagogical methodologies across different empirical studies does not allow us to
+distinguish between the components that work from those that does not. Recent evidence
+suggests that traditional financial literacy interventions may be failing not due to the content but
+mainly due to the delivery strategies used. Standard classroom-like delivery methods do not
+seem to have gone so far as to produce a change in financial choices, but when more simple and
+agile financial literacy interventions are implemented their return does seem promising. Drexler,
+Fischer and Schoar (2014) compare two distinct financial literacy programs catering to micro
+entrepreneurs in the Dominican Republic. While the first was designed following traditional
+financial education modules and imparted in a classroom-like environment, the second was
+delivered as a simplified, “rule of thumb” program. The authors find that while the standard
+accounting program had almost no effect on business financial and profits outcomes, the
+simplified training generated improvements in accounting practices and increases in profits.
+In an effort to reconcile the existing evidence, Carpena et al. (2015) implement a
+randomized control trial in India that aims at measuring the role of three potential frictions in the
+delivery of financial education programs. On top of a financial education program, they
+randomize three additional treatments at the individual level: i) incentives for correct answers on
+a financial knowledge test, additional counseling services, and goal setting. Their results show
+that financial education alone fails to improve financial outcomes. The additional motivation
+provided in the pay-for-performance arm had no substantial effect, either. Combining low
+commitment devices such as goal-setting with financial knowledge induces positive changes but
+only in more basic behaviors such as attempting to develop a budget, starting informal savings,
+and avoiding borrowing for unforeseen expenditures. Individualized counseling did yield more
+costly change in behavior such as regularly preparing a budget and opening a formal savings
+account. Though the authors argue that counseling increases participation in the formal financial
+system by personalizing the program and increasing its intensity, it is also possible that these meetings also relaxed trust barriers that were limiting households’ access to formal saving
+accounts.
+All in all, it is clear that the removal of initial transactional barriers is by far the most
+effective policy to increase access to formal saving instruments (see column 7 in Table 1).
+However, most of the studies providing subsidies find that the strong effect identified on take-up
+rates fades away in terms of account usage (see column 8 in Table 1). It is hard to provide a
+unique explanation for this pattern since the mechanisms may vary across settings, depending on
+the presence of additional constraints on saving. On one hand, other transaction costs related to
+geographical distribution of financial institutions, for example, may play a role. On the other
+hand, other constraints on saving such as behavioral ones can quickly depreciate the usage of
+formal saving accounts. The next section thus focuses on additional constraints that limit
+households’ savings behavior in a more general sense, beyond their specific decision to open a
+formal savings account.
+2.2 Other Constraints on Saving
+2.2.1 Social Pressure and Intra-Household Allocation of Resources
+Social constraints are likely to be pressing in Latin America, where private transfers among
+households represent, on average, 36 percent of per capita labor income (Lee and Mason, 2011).5
+Extended networks of family and friends impose demands on households’ accumulated stock of
+savings, which may also explain the small balances but large cash flows that the relatively poor
+manage (see Stylized Fact #9 in Chapter 2 of Cavallo and Serebrisky, 2016). Social pressure to
+share may discourage asset accumulation, encourage a fast turnover of resources, or even induce
+costly behavior such as strategic borrowing to hide resources and preempt inter-household
+transfer requests (Baland, Guirkinger and Mali, 2011). Evidence from financial diaries (Collins
+et al., 2010) and household surveys (Banerjee and Duflo, 2007) shows that the poor spend a
+considerable amount of resources on weddings, festivities, and funerals and that these
+celebrations often correspond to their extended family and/or their social network of friends and
+neighbors. In a recent experiment in Kenya, Jakiela and Ozier (2015) randomize the observability of
+investment returns to evaluate the effect of social pressures on portfolio allocation choices.
+Villagers were randomly assigned an initial endowment (high or low) and asked to choose an
+allocation of resources between a savings account with private balances and an investment
+account. The participants were exposed to one of three potential treatments with respect to the
+observability of their returns to the investment account: private, public, or the payment of a fee to
+keep them private. Their results show that only women were willing to forego expected income
+in order to make it unobservable to others in the village: relative to women with small
+endowments in the private treatment, those with large endowments and public returns invest 6.5
+percent less in the business opportunity. Once unobserved heterogeneity in risk preferences is
+controlled for, the average “kinship” tax women face is about 4 percent of income.6
+Additional evidence from Kenya (Dupas, Keats and Robinson, 2015) shows that the
+provision of formal bank accounts generates important changes in the direction of the transfers
+that occur across households: households in the treatment group become less reliant on transfers
+from (younger) households outside the village, but, at the same time, become more supportive of
+neighbors and friends within the village. In other words, the possibility of accumulating savings
+seems to shift the direction of the transfers across households.
+The burden that the social network imposes can be hard to escape due to fear of social
+shame and ostracism as well as reciprocity concerns, especially in close-knit communities.
+Chandrasekhar, Kinnan and Larreguy (2012) provide experimental evidence from India showing
+that the degree of interpersonal insurance varies with social proximity. They implement risksharing
+games and then vary social proximity between pairs and access to a savings technology.
+Among the socially closest pairs, consumption variability does not change even when individuals
+are able to set money aside. That is, the level of transfers that occur among more connected
+households does not change when a savings instrument is provided. This limits the stock of
+savings the poor can accumulate and diverts the allocation of those resources away from
+productive uses, for example.
+In addition to the pressure imposed across households, tension between agents within the
+same household could also constrain the household’s ability to save. An extensive literature exists regarding a wealth of motives that may create tension within a marriage when making
+choices for the household. Ranging from differences in bargaining power as well differences in
+intertemporal preferences (Schaner, 2015; Browning, 2000), risk preferences, or preferences for
+indivisible goods (Anderson and Baland, 2002) strategic behavior on both ends of the couple
+may lead to inefficient saving choices.
+In a model with husbands discounting the future more than their wives, Browning (2000)
+shows that the marginal propensity to save of the household will depend on the distribution of
+income within the household. The study postulates that women have a lower discounting rate
+based on two salient facts: women live longer than men and wives tend to be younger than men.
+Thus, the prospect of a longer retirement period without their husbands generates more
+incentives to save for old age among women.
+Indeed, life expectancy at birth in Latin America and the Caribbean among females is 73
+years, while it is only 68.9 years among males. The gap widens among developing countries
+within the region, with females living 77.7 years and males surviving 6 less years.7 Moreover,
+data from the BoP Survey confirm that in Latin America and the Caribbean women tend to get
+married to older men. Focusing on the sample of couples with husbands’ aged between 30 and
+50, Table 3 shows that, irrespective of the number of children, about 50 percent of the
+households in Brazil consist of husbands four or more years older than their wives, almost
+doubling the share of households with wives who are the same age or older than their husbands.
+A similar situation takes place in Mexico, with 40 percent of the households consisting of
+couples in which the man is over 3 years older than the wife. In Peru, the distribution of the age
+gap among couples tends to be less skewed, but still between 36 percent and 44 percent of
+households without children and with children, respectively, have husbands who are four or
+more years older than their wives. Along the same line, Schaner (2015) identifies a great deal of heterogeneity in time
+preferences within households in Kenya: the median couple’s discount factors are almost 0.5
+deviations apart. The study offers up to three accounts per household with a subsidized minimum
+balance: an individual account in the name of the husband, an individual account in the name of
+the wife, and a joint account. The experiment randomly assigned interest rates to each of the
+three accounts, which in the case of the joint account was drawn from a distribution that first
+order stochastically dominated8 the one corresponding to the individual accounts. The results
+show that couples who are poorly matched on discount factors tend to forego the option to access
+higher expected interest rates and open individual accounts. In other words, they are more prone
+to engage in costly actions to manipulate intra-household allocation of resources.
+Moving beyond a unitary view of the household and taking into account the interaction
+between two or more agents within the household also allows us to better understand the
+relationship between intra-household risk-sharing arrangements and public insurance provision.
+Households may undertake strategic behavior in terms of their labor supply and saving decisions
+depending on the generosity of the public insurance available. Ortigueira and Siassi (2013) build
+a model where female and male workers are subject to idiosyncratic labor shocks and where
+capital markets are incomplete to evaluate the role of savings and labor supply as an insurance
+mechanism within the household. Upon a sudden unemployment spell, two-person households
+with liquidity constraints face smaller reductions in consumption when compared to their singleperson
+counterparts: while the former see their consumption reduced by 17 percent of their income, the latter experience a 36 percent reduction of consumption. Similarly, the elasticity of
+household consumption to the loss of unemployment insurance among single-person liquidityconstrained
+households is -0.22, more than twice the sensitivity among two-person households.
+Since the two-person household faces lower income risk, smaller changes in savings are also
+expected whenever public insurance is removed. Indeed, the elasticity of the average ratio of
+assets to income is twice as high in single-person households as opposed to two-person
+households. In the model, insurance within the household operates through an adjustment of the
+female labor supply that tries to compensate for at least a portion of the losses imposed by the
+unemployment spell.
+In sum, both intra-household decision-making processes as well as inter- and intrahousehold
+insurance mechanisms may lead to inefficient joint saving choices. Although it is hard
+to directly tackle these issues whenever they constitute constraints on saving, they need to be
+taken into account in the design of financial services. For example, in settings where there is high
+pressure to share with other family members or friends, hard-commitment saving accounts can
+be useful instruments for households trying to accumulate a stock of savings (Brune et al., 2015).
+2.2.2 The Role of Behavioral Biases
+The previous subsection shed light on the main constraints that could explain the low levels of
+households’ formal savings in the region. Though important financial inclusion efforts have
+taken place in the region, it is clear that there is still substantial room for improvement in terms
+of supply of financial products, adequate outreach of formal financial institutions among the
+unbanked, and reduction of informational barriers among potential consumers. Nevertheless,
+increasing evidence points out that even if these supply-related constraints are tackled, saving
+levels could still be suboptimal due to intrinsic characteristics that bias agents’ choices.
+a) Present Biases and Lack of Self-Control
+The economics and psychology literature have both documented the important role that time
+preferences play in saving decisions (Frederick, Loewenstein and O’Donoghue, 2002;
+DellaVigna, 2007). Individuals with present-biased preferences find it extremely hard to
+postpone consumption even though they do have a demand for savings, for example. These
+agents are willing to sacrifice huge rewards today to avoid waiting a day for them, but this
+tendency is diluted whenever the trade-off between one day and the next is distant in time. Time-
+18
+inconsistent preferences of this sort lead agents to procrastinate in several aspects of their lives:
+starting a diet, writing a boring report, or going to the Department of Motor Vehicles to renew a
+driver’s license. Thus, agents with these tendencies find it particularly hard to save whenever
+self-control mechanisms are not incorporated into their choices.
+Several recent studies have tried to measure the degree of present-biased preferences and
+correlate it with under-saving, but these efforts have typically amounted to small sample sizes in
+the specific context of randomized controlled trials or case studies. A noteworthy exception is
+Wang, Rieger and Hens (2011), who measure impatience and time discounting in 45 countries,
+though still relying on small samples of university students (see Box 1).
+Box 1. Do Latin Americans Have a Lower Intrinsic Propensity to Save?
+Policy interventions that deal with market failures can effectively help households and
+individuals to improve their welfare by reducing the effect of exogenous constraints on their
+choices. Whenever credit constraints limit educational investments, for example, there is clear
+room for welfare-improving interventions. However, if the factors leading to suboptimal choices
+instead stem from intrinsic and less malleable individual characteristics, the role for policy
+intervention may be limited.
+Several papers have tried to get to the bottom of the differences in saving behaviors
+across countries and agents to understand if there is something in the way of a natural propensity
+to save. A series of studies in the 1970s tried to use factor models to decompose the variance in
+IQ test into its genetic and environmental components. However, estimates of the contribution of
+genetic components from this literature range over a large support and mainly depend on strong
+and restrictive assumptions about the factor loadings or about the distribution of the factors (i.e.,
+genetic and environmental components).9
+A noteworthy study trying to tease out the role of genes in saving decisions was recently
+developed by Cronqvist and Siegel (2015) in Sweden. By exploiting the differences in the share
+of genes shared among fraternal and identical twins, the study finds that genetic differences
+explain about a third of the variation in individual savings rates. Moreover, they find that saving
+rates are negatively correlated with smoking and obesity, behaviors that may also reflect lack of self-control and present-biased preferences, and that this correlation is largely explained by
+genetic factors.
+Another innovative strand of the literature has focused on testing what is referred to as
+“linguistic relativity” or the Sapir–Whorf hypothesis: Does the structure of a language affect the
+ways in which its speakers view the world? Can language influence the way we think and/or
+non-linguistic behaviors such as saving? A recent study by Chen (2013) evaluates whether
+speakers of languages that disassociate the present from the future have a harder time saving. He
+first classifies languages into strong and weak future-time reference (FTR) languages and finds
+that Spanish and English are strong FTR languages while Chinese is in turn a weak FTR one, for
+example.
+10 In other words, Chinese mark less strongly the differences between present and future
+events than Colombians, for example, who do tend to make a very clear distinction between the
+two.
+With this language coding in hand, Chen (2013) finds that the degree of future-time
+references intrinsic in each language is highly correlated with the way in which speakers deal
+with household and individual intertemporal decisions such as health and saving choices.
+Furthermore, he shows that even in terms of national saving rates, linguistic relativity may play
+an important role: countries with a strong FTR language save about 5 percentage points less per
+year than comparable countries with weak FTR languages.
+Wang, Rieger and Hens (2011) measure long-term discount rates (d) and present bias
+discount factors (ß) in 45 countries around the world. Whenever d=1, individuals do not penalize
+future events and gains/losses today and tomorrow have the same weight. Thus, low values of
+d imply that the future is more heavily discounted relative to the present. Individuals may also
+discount the future against the present differently depending on when the choice is made.
+Someone may care about an intertemporal trade-off between today and a week from now but not
+so much between 4 weeks and 5 weeks from now. Those with ß<1 will tend to penalize a delay
+of a week more heavily when the choice takes place in the first setting than when it takes place in
+the latter. Individuals with ß=1, will not exhibit any present bias in their choices and will
+evaluate intertemporal trade-offs under the same light, irrespective of the time to receive the
+reward/punishment. Table 4 summarizes Wang, Rieger and Hens (2011)’s results. When grouped by cultural
+clusters, the median values of d remain quite stable across regions, mostly around 0.8. The only
+exception is Africa with a slightly smaller discount factor of 0.77, signaling a less patient attitude
+in the long term which is consistent with very low levels of development in the continent. On the
+contrary, there is a great deal of variation in ß across different cultural clusters, which is
+consistent with differences in the genetic diversity within each region. Though LAC has a similar
+d when compared to East Asia, the value of ß diverges in the same regional comparison,
+revealing a higher prevalence of present-biased preferences among Latin Americans. The
+difference in median ßs between LAC and Anglo cultures is even more shocking: present-bias
+discount factors among the latter are almost 30 percent higher than in LAC. Unfortunately, nationally representative efforts to measure time preferences are
+extremely scarce or nonexistent in Latin America and the Caribbean. Frisancho and Karver
+(2015) try to fill this gap by relying on nationally representative data at the urban level for Peru,
+Mexico, and Brazil. Following Ashraf, Karlan and Yin (2006), time preferences are measured by
+asking individuals to hypothetically choose between a small reward today and a larger one in a
+month to then compare their answers for the same question but set in a more distant time frame,
+six relative to seven months from the present. Individuals who are not willing to wait for a larger reward in a month when the smaller reward could be received today but decide to do so when the
+smaller reward could be received in six months from now at the earliest are considered timeinconsistent,
+for example.11
+According to Table 5, about 40 percent of the urban population in Mexico, Peru, and
+Brazil has time-inconsistent preferences (see all highlighted cells). More importantly, about a
+third of the urban population in these countries can be considered hyperbolic discounters: these
+agents penalize the passage of time more strongly today than they do in the future (see light gray
+cells). Hyperbolic discounters are predicted to have a harder time saving because of their
+present-biased preferences and could also be more likely to resort to credit whenever liquidity
+needs arise. Table 6 provides the estimated correlation between financial choices and hyperbolic
+preferences, relative to the base category, time-consistent and patient agents. In Peru, hyperbolic
+discounters are 14 percentage points less likely to save than agents who are always patient (i.e., a
+24 percent reduction in the probability of saving relative to the latter). Though no statistically
+significant effect is identified in Mexico in terms of the probability of saving, hyperbolic
+discounters are 10 percentage points more likely to be indebted than agents who are consistently
+patient over time (equivalently, their probability of being indebted is 35 percent higher than that
+measured among patient agents). With regards to Brazil, results are similar to Peru: the
+probability of saving is 8 percentage points lower for hyperbolic discounters relative to agents
+who are always patient, though the probability of being indebted is not statistically different
+between hyperbolic discounters and consistently patient agents. Overall, the evidence suggests that there is an important share of the population in LAC
+that may benefit from commitment devices that help them save. Those who are aware of their
+presently-biased preferences will actively demand financial products that provide them with
+effective self-control mechanisms-similar to individuals who find a “gym buddy” to motivate
+them to exercise. Agents who are not fully aware of these biases could also be made better off
+with the provision of default or opt-out schemes since procrastination itself and/or inertia will
+deter or at least delay an active choice to opt out (DellaVigna and Malmendier, 2006).
+The theoretical and empirical evidence confirms that helping agents deal with their selfcontrol
+problems is effective at increasing saving.12 Since time-inconsistent agents face a
+disconnect between the present and future self, they need a commitment device that forces the
+future self to abide to the contract agreed upon by the present self. In other words, the present
+self needs to tie the future self’s hands in order for him to keep up with his initial savings plan.
+13
+The future self will be more likely to save according to present-self choices so as to avoid
+penalties imposed by the latter (interest rate reductions or fees, among others). Thaler and Benartzi (2004)’s seminal study showed that behavioral economics can be effectively used to
+design to design prescriptive policies: by offering people the option to commit in advance to
+allocating a portion of their future salary increases toward retirement savings, the program “Save
+More Tomorrow™” increased saving rates from 3.5 percent to 13.6 percent in a span of 40
+months.
+Ashraf, Karlan and Yin (2006) evaluate the effect of a commitment product provided by
+a bank in the Philippines that allowed savers to choose between time-based and amount-based
+maturities. Among those who opened the account, saving balances increased by over 300 percent
+relative to the control group. Not surprisingly, the effect was stronger among those initially
+identified as time-inconsistent, which are precisely the ones who are more likely to have their
+time preferences limiting their saving choices.
+In settings where the supply of formal products is limited, commitment devices may take
+the form of informal arrangements such as saving groups or rotating saving and credit
+associations (ROSCAs).14 Individuals in these groups meet to make cyclical lump-sum
+contributions that are pooled and given to one of the members of the group in each meeting.
+These groups are usually formed within an existing social network, which guarantees that the
+imposed commitment is binding. In Chile, a similar model of self-help peer groups was
+implemented among micro entrepreneurs as a commitment device to encourage precautionary
+savings (Kast, Meier and Pomeranz, 2012). Results from their experimental design show that the
+number of deposits grew by about 350 percent and that saving balances almost doubled among
+clients in the treatment group.
+But how strong should the commitments be? Imposing excessively strict liquidity
+restrictions, for example, runs the risk of reducing product take-up (Ashraf, Karlan and Yin,
+2006). In a pioneer study in Kenya, Dupas and Robinson (2013b) test four different saving
+products with varying levels of commitment within a sample of existing ROSCA members: i) a
+safe box without a lock, ii) a lock box, iii) an individual saving account, and iv) an additional
+saving pot kept within the ROSCA. This last treatment arm basically created a parallel pot in the
+ROSCA that members could contribute to in addition to their regular contributions. The key
+features that distinguished this group were the social commitment made and access to credit through the ROSCA. The first treatment arm had a minimum level of soft commitment in the
+form of labeling (i.e., save more for health expenditures) while the other three groups earmarked
+savings for emergency health expenditures only. Across all products, take-up rates were very
+high, especially in the one that includes a social commitment device. However, since all accounts
+had health expenditures goals in mind, the effect on take-up includes that of mental accounting
+as well. The authors also find that present-biased agents only benefited from the stronger
+commitment versions of the product, particularly from the health pot kept in the ROSCA.
+The trade-off between commitment and flexibility is a recurring issue in the design of
+financial products and services. Though there is a demand for products that tie future-self’s hand
+to reach present-self’s saving goals, unexpected shocks may force households to break their
+commitment. In such cases, strong commitment devices may even become welfare-reducing. The
+right balance between commitment and flexibility is hard to strike and will depend on the setting
+as well as on the specific saving motives of the targeted population and their exposure to
+uninsured risks. For instance, strong commitment accounts may be more suitable to save towards
+a specific goal or a planned expenditure/investment rather than to save with precautionary
+motives in mind. Commercial commitment products currently under development in the region imply a
+contract specifying a savings plan with a goal to be achieved in a fixed number of installments.
+Additional incentives are usually offered for those who keep up with their plan such as
+preferential interest rates or participation in raffles, among others. Though penalties can also be
+used to deter individuals to miss an installment, these are rarely implemented, especially at the
+launching stages of the product. While some products may encompass a social commitment
+component as in the case of Kast, Meier and Pomeranz (2012), many others rely on individual
+commitments and/or labelling to help users follow their saving plan.
+To date, there is no rigorous empirical evidence on the effects of these products on takeup
+and savings balance but several randomized control trials are underway in LAC and other
+regions.15 The Multilateral Investment Fund (MIF) at the IDB has been promoting the
+development of individual scheduled saving accounts in the region with varying degrees of commitments and rewards.16 Preliminary results suggest that commitment devices yield high
+take-up rates but usage tends to decline over time. Procrastination itself or lack of attention
+reduces the incentives to make deposits over time. Agents may thus need additional features built
+into the product so as to ensure that persistence in deposits is secured. In this sense, using
+reminders or capitalizing on some of the problem solving biases discussed in the next section,
+such as inertia, may be effective tools to increase saving balances among households in the
+region.
+b) Problem-Solving Biases: Inertia and Limited Attention
+Though individual choices in economics can be modelled either under perfect information or
+under uncertainty, most models assume that agents process all available information in a rational
+and optimal way. But in real life, people make bad (and conscious) choices. Does this mean they
+are not rational optimizing agents?
+Not necessarily. What happens is that people deal with psychological or cognitive biases
+when making decisions. Sometimes they use less information than what is available just because
+it is hard to process when a choice is clouded by urgency. Other times we may act on hunches
+just because we are overconfident about our own opinion on a given matter. In other words,
+individuals have a tendency to make decisions based on heuristics (Kahneman, Slovic and
+Tversky, 1982) or mental “rules of thumb.”
+In terms of saving choices, two such psychological biases are important determinants of
+behavior: inertia and limited attention. The first emerges from a preference for the status quo: the
+current state is perceived as a reference point and any deviation from it is perceived as a loss.
+Whenever taking an action imposes some sort of transaction cost, agents with a tendency
+towards cognitive inertia will have a harder time doing it.
+Preferences that exhibit inertia lead to habit formation. Think about your choices when
+you go out for dinner during the weekend or when you buy lunch while at work; have you
+noticed that you tend to go to the same places and/or order the same dishes? These are safe choices, you keep repeating them because they are the status quo and you are satisfied with the
+outcome. Finding a new place to eat out or trying a new dish imposes a search cost and the
+underlying risk of disliking the new choice, so everything stays the same. This is why automatic
+enrollment plans have proven to be successful in many settings, especially in consumer markets.
+Many promotional campaigns provide a given good or service at a reduced rate for a short period
+of time after which automatic enrollment kicks in at the regular rate. Surprisingly, many
+individuals find it easier to keep paying the higher price than to cancel the service.
+Limited attention could also lead to sub-optimal choices due to neglect of information. In
+many countries, for example, it is mandatory for retail stores to list the final price of their
+products after taxes. This is a common practice because consumers tend to forget to factor in this
+additional cost when buying goods.
+Whenever individuals face episodes of limited or selective attention, they are more prone
+to make mistakes or distort their choices. Agents could have trouble forecasting their future
+expenditures, for example, which could end up affecting their saving behavior each period. Thus,
+planning tools in which agents list all the subcomponents of their household consumption basket,
+for instance, could help agents pay attention to frequently overlooked details when forecasting
+their consumption. Evidence from Frisancho and Karver (2015) provides an example along these
+lines. The authors compare households’ responses to two questions: i) “Do you or anyone in the
+household regularly save?” and ii) “In the last 12 months, have you or anyone in the household
+saved using […formal/informal saving instruments…].” They find that there is a notable
+mismatch between households’ responses to both questions (see Figure 2). When asked about
+their choice to save in general, households misreport their actual saving behavior. Among those
+who claim not to save when asked in aggregate terms, 39 percent, 23 percent and 15 percent of
+households in Peru, Mexico, and Brazil, respectively, report saving when these choices are
+recorded after asking for each possible financial instrument, one at a time.
+Both inertia and limited attention can be somehow tapped into to increase suboptimal
+saving levels. First, inertia can be capitalized so as to make the optimal saving level the default
+situation. Individuals who have a tendency to prefer the status quo will then find it harder to opt
+out of saving. In this scenario, inertia will emerge as a constraint on the agent’s likelihood to stop
+saving. Automatic discounts or direct deposits may facilitate saving mobilization in settings
+where income flows are intermediated by some individual or institution different from the agent. This feature is present in several commercial products offered by formal banks in more
+financially developed settings, such as those where individuals receive their wages through a
+bank transfer, for example.
+The limited use of electronic transactions as a means of payment in developing countries
+limits the possibility to take advantage of default mechanisms to encourage savings.
+Nevertheless, recent efforts in the region are targeting cash transfer beneficiaries who receive
+their grant through a direct deposit on a bank account. Default devices linked to remittance
+receipts can also be an effective way to take advantage of inertia biases, since remittance
+recipients in the region tend to receive an incoming international wire on a regular basis.
+Whenever this income flow is intermediated through a bank account, additional illiquid accounts
+can be linked to it so as to allow the recipient to choose automatic discounts to be saved. Preliminary evidence from a recent study looks at the effect of offering direct deposits of
+cash crop harvest proceeds into bank accounts in rural Malawi (Brune et al., 2015). Almost 300
+farmers clubs, each with 10-20 members, were randomly assigned into a control group or one of
+two treatment arms: a direct deposit account and a commitment saving account. The second arm
+offered the direct deposit account but added an additional illiquid account that allowed farmers to
+specify an amount to be transferred into it as well as date-based maturity. The study finds that
+both treatment arms contribute to increasing total saving balances, since all cash crop earning are
+automatically saved. However, the commitment account has a much larger effect: while the
+direct deposit account increases total balances by 280 percent, the commitment account
+translates into a 620 percent increase in savings.
+Another recent study provided 10 weekly payments of Rs 150 to villagers in rural India,
+each of them more or less equivalent to the daily minimum wage in July 2015. The control group
+received the payments in cash while the treatment group received the payments in formal bank
+accounts that they already had or were asked to open for the study (Somville and Vandewalle,
+2015). The automatic deposit of the transfers increases account balances by about 110 percent
+and this effect seems to last over time. Treated individuals seemed to be less tempted to incur
+regular consumption expenditures relative to their counterparts in the control group.
+Inertia can also be seized through the promotion of saving habits among children and
+youth. The formation of saving habits through early interventions can be effective to generate
+new reference points or a status quo that incorporates saving into consumption decisions. Though
+the evidence is still limited, the timely introduction of interventions that are able to show the
+young the value of delaying gratification presents itself as an interesting strategy to promote
+higher savings in the region. These efforts can be particularly important in Latin America and the
+Caribbean, where time preferences seem to be more biased towards the present when compared
+to other regions (see Subsection 4.3 for policy recommendations on this dimension).
+Financially educating youth can yield important indirect effects beyond financial
+knowledge, attitudes, and outcomes. First, good financial habits are also linked to better
+outcomes in terms of schooling, employment, and standards of living. Second, they can also be
+agents of change in their households, permeating some of the knowledge they acquire to other
+siblings and parents (Bruhn et al., 2013) Bruhn et al. (2013) implement a large-scale randomized control trial to measure the
+impact of a financial education program delivered in public high schools in Brazil on students’
+financial knowledge and behavior. Their results show that financial knowledge improves by
+about a quarter of a standard deviation of initial performance in a financial proficiency test. More
+importantly, the program seems to benefit all students, irrespective of their initial level of
+performance at baseline. The authors also identify smaller but significant effects on financial
+behavior: students in the treatment group are on average 12.5 percent more likely to save than
+the control group, and their saving balances go up by 0.07 standard deviations. The intervention
+also generated improvement in spending behavior: students in the treatment group were more
+likely to compare prices, negotiate prices or payment methods before shopping, and prepare
+monthly budgets. Finally, the program also seems to have “trickle up” effects: parents in the
+treatment group scored higher in an exit financial literacy exam and were more likely to save.
+A recent experiment with youth accountholders in Colombia relies on a financial
+information campaign delivered through SMS to try to disentangle the roles of limited
+information, limited self-control, and limited attention to savings behavior (Rodríguez and
+Saavedra, 2015). The study implements a large scale field experiment with three treatment arms
+in addition to a control group: a financial education campaign with monthly messages and two
+saving reminder treatments with varying degrees of frequency, monthly and bimonthly. Their
+results show that the better-targeted reminders to save, regardless of their frequency, have
+important effects on account balances, mainly through reduced withdrawals. On the other hand,
+the financial knowledge campaign had no significant effect on account balances, which suggests
+that informational and knowledge constraints were not binding in this sample.18
+Lack of attention, on the other hand, can be tackled with appropriate reminders and
+nudges that help people achieve their saving goals. On a daily basis, people who are well aware
+of their bad memory or inattention resort to simple tricks to remind themselves of certain events
+or tasks: wearing a rubber band around the wrist, wearing a ring on the wrong finger, writing
+down reminders on the hand or arm, placing post-its on the bathroom mirror, or writing to-do
+lists. Similar strategies may work when it comes to savings.
+A pioneer study by Karlan et al. (2016) looks at the effects of monthly reminders with
+varying content in three countries: Bolivia, Peru, and the Philippines. In general, the authors identify a 6 percednt increase in saving balances due to reminders and a 3 percentage point
+increase in the probability of reaching a given saving goal. The framing of the reminders did not
+seem to matter in these settings, but more research is still required on this front.
+19
+Additionally, we need to better understand what, exactly, is the best timing for the nudges
+or reminders to be delivered as well as the optimal number of reminders that should be sent. On
+the one hand, there might be better times during the month or during the day to remind people to
+save. If, for instance, the reminder is received when the household is cash constrained, the nudge
+could be weak since the effectiveness of the message is diluted until a new cash inflow arrives. It
+could also be that there are better times of day for reminding people about their excessive
+expenditures and their saving goals: at lunch time or dinner time, for example. On the other
+hand, a one-time reminder may not be enough; how many are then effective? Finding the right
+place between too few reminders and potential “harassment” is another important avenue for
+future research.
+3. Credit and Saving Choices under Credit and Saving Constraints
+Imagine a household wants to buy a new refrigerator that costs $??. Imagine also that it faces no
+constraints on saving at home: every month the household sets aside $??/6 and places them in a
+lockbox at home. After six months, the household is finally able to go to the store and buy the
+new refrigerator without difficulty.
+This scenario is not realistic for a large share of households in the region, especially if
+they have a hard time making ends meet. On top of cash constraints, the previous subsection
+showed that households also face important constraints on saving: there may be temptations to
+spend the money before reaching the goal or someone in the household could take the money and
+spend it on something else, for example. Whenever behavioral biases or social constraints limit
+the ability to save, households may find it advantageous to commit to a contract with a regular
+schedule of deposits and a fixed lump-sum withdrawal that can finance a given purchase. If the
+timing of the purchase is not crucial but the good is valued high enough, households may be
+willing to enter a variety of contracts with different withdrawal periods and costs as long as they
+ensure the acquisition of the good at some point in time (Afzal et al., 2015). On the one hand, for a low enough interest rate ??, the household may accept a credit contract and buy the refrigerator
+right away. The threat of facing a penalty in the case of default acts as a commitment device for
+the household to keep up with the schedule of payments. On the other hand, when offered a
+commitment savings contract, the household will also be likely to accept (and even pay for the
+service as in the case of susu collectors in Ghana20) as long as it helps reach the $?? goal to be
+able to buy the refrigerator at the end of the contract.
+In this sense, credit and saving services become substitutes, satisfying the same
+underlying demand for regular deposits and a fixed withdrawal. Moreover, within such a
+framework, we could even rationalize choices such as financing school supplies with savings and
+the purchase of a new pair of shoes with credit. The same household may be willing to take up
+credit and saving contracts simultaneously to be able to finance several lump sum expenditures.21
+Indeed, Figure 3 shows that a considerable share of households in LAC relies on savings and
+credit instruments simultaneously. More importantly, households who use either loans or saving
+stocks to finance lumpy investments or expenditures (e.g., the purchase of assets or the payment
+of a debt) have a higher probability of mixing credit and saving instruments. These households
+are 28, 18, and 9 percentage points more likely to use credit and saving instruments
+simultaneously in Peru, Mexico, and Brazil, respectively (Frisancho and Karver, 2015).
+A recent study looked at the demand for credit and saving among current and former
+female microfinance clients in Pakistan (Afzal et al., 2015). Each participant was invited to a
+series of three weekly meetings in which they were offered one out of 12 possible commitment
+saving or credit contracts, with the same installment schedule but varying interest rates and
+timeframes for withdrawal. Among the 709 respondents present in the three rounds of offers
+(about 80 percent of the original sample), 45 percent accepted all three contracts offered while 17
+percent rejected all contracts. Among the sample of individuals who were randomly offered both
+a saving and credit contract, the majority accepted at least one of each category. The study also
+shows that those who declare facing pressure from family and friends when trying to save are less responsive to changes in the contract terms and end up accepting credit and saving contracts
+more often.
+In Chile, Kast and Pomeranz (2014) implemented a randomized control trial among 3,500
+low-income microfinance clients in which the treatment provided them with cheap access to a
+formal saving product. Reducing constraints on saving generated a 20 percent drop in total
+outstanding short-term debt, mainly explained by a reduction in debt from informal sources such
+as family and friends. The treatment also insulated households better against negative economic
+shocks: relative to the control, consumption declines due to income shocks were reduced by 44
+percent. Long-term debt was in turn unaffected by the treatment, which suggests that saving and
+credit are substitutes in the short term either due to demands for lumpy expenditures or as an
+insurance mechanism.
+In sum, this preliminary evidence indicates that the traditional notion that rational agents
+should either save or borrow, but not both, is not adequate. Although more research should be
+conducted on these issues, the existing results reinforce the view that financial inclusion efforts
+should provide a full array of financial services that better serve households’ needs and demands
+and that such needs might be complex and affected by a variety of motives.4. Policy Recommendations
+The previous sections have tried to highlight some of the main constraints on saving faced by
+households in LAC and their strategies to cope with them. Section 2 showed that one of the main
+constraints on saving in formal institutions is the high levels of distrust of banks in the region.
+Although several runs on banks and many financial crises have contributed to damaging the
+reputation of financial institutions in the region, these high levels of distrust may also be
+explained by lack of knowledge or information about the workings of financial institutions. The
+need to foster dynamic regulation frameworks that adapt to the changing and innovative
+technologies that promote savings was also highlighted as a key pillar to foster higher saving
+rates among households in Latin American and Caribbean.
+Section 2 also showed that individual preferences may also become an important
+constraint on saving. Present-biased preferences seem to be a common trait among Latin
+Americans, and the evidence shows that these preferences are associated with lower levels of
+saving and/or a higher propensity to be indebted. Moreover, lack of attention and inertia seem to
+further reduce accumulated savings among households.
+The third section of the paper analyzed the financial portfolio of households when both
+credit and saving constraints are present. The predictions of a simple model in which households
+0 10 20 30 40 50
+%
+No Access
+Only Credit
+Only Savings
+Credit and Savings
+35
+have an underlying demand for regular deposits and a fixed withdrawal hold in the data: when
+offered credit and saving contracts, households may accept either of them. These two financial
+instruments, which are often viewed as opposites, work as substitutes and are used
+simultaneously as long as they help finance multiple lumpy investments or expenditures.
+Though this paper suggests that some of the constraints on saving are explained by
+intrinsic characteristics of the agents, this does not imply that there is no way to affect
+households’ saving rates in the region. In fact, formal suppliers of financial services can lead
+successful financial inclusion efforts to the extent that they are able to adapt their products and
+business models to the demands of potential consumers. First, there is a clear need for product
+innovation in the region. If behavioral biases are an important constraint on saving for a large
+share of the population, they should be incorporated into the design of financial products and
+services. Second, formal institutions can and should learn from informal mechanisms currently
+serving the financial needs of poor households. These informal arrangements have naturally
+emerged to cover unmet needs of the excluded (or self-excluded) from formal financial services
+so they are at least informative about the needs of this population. In addition to adequate
+regulatory frameworks and the fostering of competition and efficiency gains in the financial
+sector (see Chapters 3 and 11 of Cavallo and Serebrisky, 2016), the lingering challenge to
+attracting savings into the formal financial system may also be tackled either through the
+formalization of informal mechanisms whenever possible or through potential partnerships
+between these arrangements and formal institutions.
+The evidence presented above also suggests that another promising avenue of
+intervention is the focus on children and youth so as to generate positive saving habits and
+potentially affect preferences that could lead to low saving rates in the future. Since some of the
+traits that limit saving choices are hard to modify in adults but somehow malleable at younger
+ages, there is room to explore the role that early interventions may have on agents’ time
+preferences and saving behavior. The empirical evidence to date is limited and shows meager
+results, which calls for more research on the topic and the development of a research agenda that
+incorporates the input from other fields such as neuroscience and psychology.
+The paper concludes along these three lines of action—product innovation, the interplay
+between formal and informal saving mechanisms, and early interventions—which may prove
+effective in increasing household savings in LAC. 4.1 Product Innovation
+4.1.1 Keeping It Simple
+As Karlan, Ratan and Zinman (2013) conclude, “the simpler a task, the more likely it is to be
+done.” Complicated paperwork, hidden fees, long lines to make a deposit, and burdensome trips
+to the bank all help to discourage clients from opening an account and/or continue using it. In
+addition, in a region where financial literacy is particularly low, financial institutions need to
+work hard on simplifying processes so as to make sure there is little room for informational gaps
+that can limit the demand for saving services.
+4.1.2 Tackling Behavioral Biases
+About a third of the population in urban Peru, Brazil, and Mexico exhibits hyperbolic
+preferences. Moreover, the evidence in Box 2 suggests that the prevalence of present-biased
+preferences is higher in Latin America and the Caribbean than in other regions. Thus, it is likely
+that these agents would benefit from commitment devices that help them save. Consumers that
+are aware of these behavioral biases have tried to find informal or idiosyncratic ways to deal with
+these biases. Formal suppliers of financial services could cater to time-inconsistent consumers by
+providing products that help them keep up with their saving goals. Scheduled saving plans and
+commitment accounts that provide the right balance between incentives and penalties may be
+effective instruments for banking the unbanked and helping them increase their saving balances.
+Among consumers that are not aware of their behavioral biases, the introduction of
+default mechanisms in developing financial markets may be useful in helping them reach their
+optimal goals. However, the advantages of these mechanisms can be better exploited in settings
+where income flows are intermediated through formal financial systems. Ongoing and joint
+efforts of policy makers and financial institutions to bank the unbanked are thus a crucial setting
+stone for the provision of saving products that respond to the needs of the households in the
+region.
+4.1.3 Incorporating the Use of Technology
+Technology can be helpful not only in simplifying processes and transactions but also in helping
+individuals deal with the behavioral biases they face. Opening accounts and being able to
+manage them online, for example, may lead to higher take-up and usage rates. The use of
+cellphones or Internet facilitates transactions that are likely to be postponed indefinitely by time-inconsistent agents. Transferring money from a simplified account to a more illiquid one with a
+couple of clicks minimizes the role that behavioral biases may play. Much progress in terms of
+cash management has also been achieved with the introduction of electronic wallets or mobile
+money in countries such as Colombia and Paraguay.
+Another important area of action for technology is related to reminders. The high levels
+of cellphone penetration in the region make text messages and mobile application software ideal
+cost-effective channels for helping people save.
+Nevertheless, regulation has not always been able to catch up with innovation. Important
+efforts are thus required from financial regulators in LAC so as to ensure that local regulations
+do not act as a deterrent for the generation of new saving products that rely on the use of
+technology (see Subsection 2.1).
+4.1.4 Keep Testing
+The development and prototype testing of formal saving products that can reach and be
+effectively used by the poor may not be an appealing enterprise for traditional financial
+institutions and it may be extremely costly for non-profit MFIs struggling with selfsustainability.
+After all, the savings that the poor are able to mobilize amount to modest
+aggregate sums. This knowledge gap has been more or less covered by the academic
+community’s increasing interest in the topic and the extensive use of randomized control trials
+throughout the developing world. Nevertheless, academics’ incentives to publish and
+practitioners’ urges to find timely solutions that can be cheaply and quickly tested can limit the
+extent of experimenting that takes place.
+Some efforts to increase interest among these two sets of actors have emerged in the past
+few years. Innovation for Poverty Actions (IPA) has been a crucial actor on the topic of financial
+inclusion in general. They have launched several initiatives to try to connect policymakers and
+practitioners (i.e., matchmaking gatherings) and promoted the development of applied and timely
+research that can inform financial inclusion efforts in the developing world in general. The MIF
+(IDB) has also served as a laboratory for testing financial products and services in the region,
+with a stronger emphasis on saving products in recent years. As the region and the world as a
+whole keep changing, these initiatives are crucial for informing policymakers, practitioners, and
+financial institutions. 4.2 Bridging the Gap between Informal and Formal Mechanisms
+Households excluded from formal financial markets satisfy their demand for financial services
+by relying on informal mechanisms that are frequently linked to social networks. Though these
+informal services often charge very high fees and, in some cases, are insecure and unreliable,
+their existing demand does not seem to be entirely driven by exclusion from financial markets. In
+fact, some households may even prefer informal services over formal ones due to a variety of
+attributes such as their convenience, easiness of use, and trustworthiness (Lee, Ainslie and
+Fathallah, 2012). Providers of informal saving or credit instruments are usually already present
+in the clients’ social network so that access to them is extremely convenient. Moreover,
+transactions tend to occur without the hassle of paperwork or complicated contracts and are
+usually enforced by social norms. Despite the risk involved in these unregulated transactions,
+households seem to perceive them as safer than those conducted in the formal financial systems,
+which may be explained by distrust in banks and/or confusion and disinformation about
+regulations and fees structure.
+In reality, informal instruments can be very costly or unsafe, the latter both due to
+demands of family and friends and the high probability of loss or theft. Moreover, informal
+mechanisms tend to be very illiquid, as in the case of saving groups or ROSCAS, where the
+individual has to wait until luck or a predetermined schedule of payouts determines it is his turn
+to take the pot.
+Beyond their close proximity to unbanked clients, informal services also have several
+advantages when reaching the unbanked. For instance, they tend to be very flexible and
+innovative, as they naturally emerge and adapt to the specific needs of the population they serve
+(Pagura, 2008). Susu collectors in Africa, for example, charge a fee to collect very small deposits
+over the course of a month (sometimes daily) and keep them safe. Households demand these
+services—which are prohibitively costly for a formal institution to supply—as a way to selfimpose
+a commitment device to save or to keep savings away from family or friends’ demands.
+Although financial inclusion efforts tend to focus on the provision of formal financial
+services, markets themselves are evolving in a way that is increasingly embracing informal
+services. Indeed, formal financial institutions are starting to explore beneficial linkages with
+informal providers that allow them to reach clients they would find extremely hard to serve
+otherwise due to lack of infrastructure and local knowledge. Examples of the “informalization” of formal financial services come from all around the
+world. In Ghana, two private banks are using susu collectors to mobilize savings, while in
+Jamaica the Workers Bank created a product that mimicked ROSCAs. In the Philippines, formal
+sector banks extend loans to informal lenders, creating a system of credit-layering that allows
+them to increase their outreach in rural settings by reducing problems of information,
+monitoring, and enforcement (Floro and Ray, 1997). In Bolivia, a non-regulated MFI seeking to
+provide non-financial services to their clients created over 20 linkages with a variety of actors,
+including private sector firms such as Western Union and utilities companies. The MFI was then
+an effective means for formal institutions to reach rural populations (González-Vega and Quirós,
+2007).
+Even though banking low-income populations may not be profitable per se, banks are
+realizing that the supply of additional financial instruments such as credit and insurance is a very
+attractive business opportunity. Their ability to serve the poor on a large scale can thus render
+them profitable. After all, they are still an important share of the population in LAC: between 60
+percent and 70 percent of the population in the region lives on less than US$ 10 daily in terms of
+purchasing power parity.
+Formal providers willing to go the extra mile in the LAC region may learn from the
+successful experiences of informal providers of financial services. First, banks can learn about
+the existing supply of informal financial services and build on them. This strategy may be
+effective in generating generate trust among unbanked clients, which seems to be an important
+access barrier in the region.
+Second, formal financial institutions can find ways to extend their outreach by merging or
+sponsoring other informal providers who have comparative advantages in the market. On one
+hand, the formalization of these providers will also help reduce the risks and insecurities
+associated with informal mechanisms. On the other hand, these alliances can also help formal
+institutions reduce the upfront information and search costs that bancarization entails.
+22 In other
+words, partnerships with informal institutions which have already taken on the sunk costs of
+banking someone (e.g., educating the client and building a credit history, among other
+investments) may reduce the cost that formal providers face when trying to reach the unbanked. Finally, the design of formal products should be inspired by informal products currently
+being offered, since the latter have been directly molded by people’s demands over time.
+4.3 Early Interventions
+The evidence presented on both linguistic relativity and time preferences in Box 1 suggest that
+households in LAC may have a lower propensity to save than in other regions due to intrinsic
+factors. However, this by no means implies that policy interventions to promote savings in the
+region should be abandoned. In addition to the careful design and provision of financial products
+that these behavioral biases require (see Subsection 4.1) and the potential mileage that closer
+linkages to informal saving mechanisms can provide to formal financial institutions (see
+Subsection 4.2), other strategies may prove successful in modifying preferences and habits.
+Evidence from developmental psychology and neuroscience (Henrichs and Van den
+Bergh, 2015) indicates that the development of self-regulation or self-control is closely related to
+the development of the prefrontal cortex, which can start to develop as early as in utero and
+continues into early adulthood. Environmental factors can indeed influence both gene expression
+and neural specialization (Meaney and Szyf, 2005; Henrichs and Van den Bergh, 2015), which
+opens up the possibility of conducting early interventions among children and youth, while the
+prefrontal cortex is still developing. With self-control being an important trait for humans in
+most dimensions of their lives well beyond saving choices, it is thus urgent to learn about the
+kind of interventions that are successful in mediating the perverse effects that genetic
+predispositions may have.
+However, empirical evidence on interventions that can either generate supportive
+environments for children with a higher propensity to save or minimize the effects of genetic
+predispositions to save little is still scarce. Some exceptions are Jamison, Karlan and Zinman
+(2014), Karlan and Linden (2014), and Berry, Karlan, and Pradhan (2012) but their results are
+still far from promising. Jamison, Karlan and Zinman (2014) conducted a randomized control
+trial with youth clubs in Uganda and implemented three treatment arms that offered either
+savings account, financial literacy training, or both. Their results indicate that total savings
+increased for the education-only and the education+account treatment arms, but no significant
+effects are identified on measured inputs used in making choices such as discounting, selfcontrol,
+or risk tolerance. Berry, Karlan and Pradhan (2012) implemented two school-based programs in public
+junior high-schools in Ghana. While one of the treatment arms provided financial education, the
+second arm implemented the curriculum of Aflatoun,
+23 which added a social education
+component on top of the financial literacy one. Along the same lines as the results obtained with
+youth clubs in Uganda, the study finds that both programs increased savings in schools (though
+there are no changes in total savings), but the treatment impact on savings attitudes or time
+preferences is null.
+Recent experimental evidence from Brazil has rendered very promising results from the
+inclusion of financial education in the curriculum of public high schools in Brazil (Bruhn et al.,
+2013). This intervention was implemented in the context of a National Strategy for Financial
+Education (ENEF) in the country and several governments in Latin American and Caribbean are
+following suit. Education ministers have yet to explore the best way to develop the specific
+financial literacy component to be included in the public high school curriculum as well as
+appropriate teaching materials.
+Modifying time-preferences or saving attitudes to be able to affect propensities to save is
+not an easy task. Little is known about the best time to get started (younger children in primary
+and/or secondary school), the length of exposure to environments that are conducive to
+improving self-control abilities, or the experiences that moderate propensities to save, among
+others.
+Besides the centralized efforts of the Latin American and Caribbean governments to
+target youth in the context of national financial inclusion strategies, pioneer work along these
+lines is taking place in some non-profit microfinance institutions in the region as in the case of
+FINCA Peru and ADRA Peru (see Box 2). It is thus crucial to monitor, evaluate, and experiment
+along the lines of these efforts to be able to understand the mileage that early interventions may
+have on saving choices. Furthermore, more research in the confluence of economics and
+neuroscience and psychology is required to gain a better understanding of the effects of
+environmental factors on genetic traits.Box 2. Savings of the Young: ADRA’s Experience
+MFIs in the region have usually promoted the development of saving habits among their clients,
+female micro entrepreneurs in most cases. In recent years, some institutions are extending their
+focus to the children and grandchildren of these women by providing programs and products
+designed to help children save. In Peru, for example, FINCA Peru has implemented the same
+program developed by Aflatoun in rural areas among primary and secondary students and is
+providing their clients’ children with saving instruments.
+Another example from Peru comes from the Adventist Development and Relief Agency
+(ADRA), which runs a village banking program in peri-urban and rural areas in the country.
+After a few years as a pilot, the institution has launched a product designed to teach children
+saving habits by directly helping them save. The product is offered to their clients’ children and
+grandchildren aged between 0 and 18 and it is inserted within the village banking methodology
+ADRA uses to provide credit and saving services. Children who decide to participate choose a
+specific saving goal and label and start a cycle of monthly deposits during village bank meetings.
+The children cannot withdraw their funds until they have reached their goal but, in the meantime,
+they earn interest as the funds can be used to extend loans to bank members.
+ADRA has accompanied the provision of this product with a training component catered
+to the mothers and grandmothers of the children, in which they emphasize the crucial role that
+they have in promoting their children’s saving habits. They have also provided children with
+moneyboxes to help them achieve their goals and avoid temptations between deposits.
+Although the effect of the program has not been evaluated, the rapid expansion of the
+portfolio of underage clients is encouraging. Between December 2012 and June 2015, the
+number of children in the program has grown from 882 to 3,831, and total savings accumulated
+by these young clients has experienced a six-fold increase. As of June 2015, the average stock of
+savings per child was about US$ 28.
+5. Conclusion
+Financial constraints were often viewed as households’ limitations to obtain access to credit. In
+recent years, financial inclusion efforts have emphasized the role of savings as a development
+tool and recognized that households may face strong constraints on saving. Nevertheless, the initial focus was placed on lifting supply-side constraints by trying to expand the use of formal
+financial services among the unbanked. However, the empirical evidence available shows that
+demand-side constraints may have an important effect on households’ ability to save as well as
+on saving through the use of formal instruments.
+This paper has thus tried to focus on demand-side constraints that households face when
+making saving decisions. First, it looked at the constraints that limit households’ formal savings
+such as transaction costs, trust in financial systems, and regulatory barriers. Second, it focused on
+more general constraints affecting saving choices as a whole, which included information and
+knowledge gaps, social pressure and intra-household allocation issues, as well as behavioral
+biases when making financial choices.
+The paper placed special emphasis on the special features of individual behavior that
+seem to impact savings behavior. It reviewed important advances in the field of behavioral
+economics and presents new available evidence for the Latin American and Caribbean region
+along these lines by analyzing the role that time preferences, lack of self-control, inertia and
+limited attention have in shaping financial choices under a given decision-making environment.
+Dealing with these barriers is harder than expanding the presence of banks through agent
+banking services, for example, in the sense that the former demand well-crafted policy
+interventions that are able to alter behavior. Affecting people’s beliefs and preferences is not an
+easy task, but the potential returns of interventions of the sort seem to be quite large. Synergies
+with other fields such as neuroscience and psychology thus seem like a powerful strategy when
+trying to deal with these constraints.
+One of the main contributions of this paper is the development of specific policy
+recommendations related to the constraints highlighted here. In particular, three lines of action
+are proposed: i) product innovation to accommodate the presence of behavioral biases, distrust,
+and knowledge gaps; ii) the informalization of formal financial services (or, alternatively, the
+formalization of informal ones), and iii) the need to develop and test early interventions to
+develop saving habits. Hopefully, this rough roadmap can be useful in guiding the ongoing
+discussion on financial inclusion in the region. 

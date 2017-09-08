@@ -1,0 +1,265 @@
+1. Introduction
+The Inter-American Development Bank (IDB) and the Ibero-American / Inter-American Network
+of Science and Technology Indicators (RICYT) are participating in the revision process of the
+Oslo Manual led by OECD and Eurostat. In this context, several dimensions have been
+identified to improve the patterns of data collection and measurement of innovation. The
+objective of this survey is to know the experience of different countries of Latin America and the
+Caribbean on some of the dimensions under analysis. The results of this survey will contribute
+to the perspective of the region in the new version of the Oslo Manual. This work was
+undertaken as part of the project “Improving the quality and comparability of innovation
+indicators in LAC countries” (RG-E1487), funded by IDB and led by the Competitiveness,
+Technology and Innovation Division at the Bank.
+2. General Questions
+All countries use the latest revision of ISIC (Revision 4) except for Argentina, Chile and Mexico,
+that use ISIC revision 3 (and NACE revision 1.1 in the case of Mexico). Mexico is the only
+country that considers only firms with more than 20 employees as a target population, and
+Uruguay includes firms only with at least 5 employees. The rest of the countries take into
+consideration firms with at least 10 employees. In addition, Colombia and Uruguay include all
+firms with sales over US$47,000 and US$4,250,000, respectively. In Peru, the target population
+corresponds to all firms with net sales of at least around US$170,000 and in Chile of at least
+2,400 fiscal units equivalent to US$96,000. Finally, in Panama and Costa Rica all firms are part
+of the target population.
+In terms of sampling, most countries in the region conduct innovation surveys using stratified
+random sampling as advised in the Oslo Manual (hereby OM), including Argentina, Chile, Brazil,
+Ecuador, Mexico, Panama, Peru and Uruguay. However, the extent of the stratification is very
+different across countries. In the case of Argentina, Chile and Uruguay, the main economic
+activity of the firm and its size are used as stratification variables, while Brazil and Ecuador use
+only the size of the firm. Note that the size variable is considered in terms of number of
+employees in the case of Argentina, Brazil, Ecuador and Uruguay but in terms of sales in Chile.
+In Peru, a census is conducted for firms that represent 82 percent of country’s annual net sales
+and a simple random sampling is used to collect data for the remaining firms. Costa Rica only
+performs simple random sampling. Colombia is the only country to carry out a census. None of
+the countries report having had difficulties in the design of the sample. However, Chile notes
+that they are learning and reflecting on the best way to realize the stratification of the sample of
+firms in order to improve the representativeness of the sample of firms. All countries declare that
+their survey has national coverage except for Costa Rica.
+1 2 In addition, Mexico considers
+having a representability at the state level and Argentina at the level of the sector and firm size.
+All countries interviewed performed a data consistency check. Neither of them claims to have
+had difficulties. It is important to note that in some cases the respondents are not in charge of
+this type of activity. For instance, in Colombia, Mexico and Peru, the national statistical agency is in charge of the consistency checks.
+3 All countries report having an anonymized database
+except for Colombia and Costa Rica. In the case of Costa Rica, the National Institute of
+Statistics and Census (INEC by its acronym in Spanish) is working on a document setting the
+guidelines for the process of anonymizing databases, and the Ministry of Science, Technology
+and Telecommunications (MICITT) is waiting for this document. Argentina, Brazil, Mexico and
+Uruguay do not consider having had difficulties in building the anonymized database. Colombia
+(competence of the National Administrative Department of Statistics [DANE]), Chile, Ecuador
+and Panama do not give more details on whether they have encountered difficulties in building
+an anonymized dataset. Argentina stresses the importance of informing users of the
+anonymized database of the changes and the loss of information that it implies relative to the
+original data. All countries have expansion factors except for Uruguay. According to Mexico,
+expansion factors can be requested to the National Institute of Statistic and Geography (INEGI).
+Since Colombia realizes a census, the expansion factors are not needed.
+In terms of sectoral coverage, most countries undertake innovation surveys on both the
+manufacturing and service sectors. Colombia, Costa Rica and Mexico realize this survey in the
+two sectors but independently. Argentina and Peru are the only two countries interviewed that
+conduct the survey in the manufacturing sector only. Finally, some countries include other
+sectors such as electricity and gas in the case of Brazil and Chile, and agriculture in Costa Rica
+and Uruguay (as independent surveys). Finally, the innovation survey of Ecuador includes
+almost all sectors of the ISIC classification (rev 4).
+4
+3. Investment in Innovation Activities
+All the countries interviewed ask about whether the firm realizes innovation activities in terms of
+R&D expenditures (with a breakdown between internal and external R&D), acquisition of
+machinery, equipment and other capital goods, training (except for Brazil), industrial design
+activities (except for Brazil and Chile), acquisition of external knowledge5 (except for Uruguay).
+Most countries ask for investment in consulting (except for Brazil, Chile and Mexico). In terms of
+ICT spending, most countries ask whether firms invest in hardware and software acquisition
+(Costa Rica, Ecuador, Panama and Peru have a breakdown between hardware and software).
+In the case of Chile, the acquisition of software and hardware6 is included with the acquisition of
+machinery, equipment and other capital goods. Brazil and Mexico only ask about software
+expenses. When it comes to the investment aimed at introducing innovations in the market,
+more than half of the countries include it in their questionnaire (Brazil, Chile, Colombia,
+Ecuador, Peru and Uruguay). Other questions recommended in the OM are asked only in a few
+countries of the region. For example, only five countries out of ten interviewed ask about the
+investment in technical assistance (Argentina, Colombia, Ecuador -along with consultancy
+expenses-, Panama and Peru). The question regarding other activities for the preparation of
+product and process innovations only appears in the innovation survey of Brazil, Mexico and Panama. In addition to the types of expenditures recommended in the OM, the countries of the
+region included in their last survey the following dimensions:
+• Installation and development of new equipment (Chile)
+• Management (Costa Rica, Panama and Ecuador7
+• Quality management (Panama)8
+• Environmental management (Panama)
+• Activities of technological monitoring and surveillance (Panama)
+• Acquisition of land and buildings (Mexico)
+All the countries interviewed consider that these expenses are reliable. According to Ecuador,
+this is due to the fact that they employ qualified personnel who assist firms to answer the
+questions. In addition, a posteriori controls were carried out in Costa Rica and Argentina.
+However, Argentina and Chile note that in some cases firms have had difficulties in estimating
+annual amounts. In particular, in Argentina it has been difficult to obtain a disaggregated value
+of ICT expenditures (software and hardware). For this reason, expenses were reported in an
+aggregate manner. Additionally, Chile observed firms that innovated but did not spend anything
+in innovation activities. They attribute this inconsistency to the difficulty for firms to quantify the
+investments in innovation activities. In the case of Colombia, they assure that the data is reliable
+as of 2007; before that year a strong process of data cleaning is necessary. Brazil, Mexico and
+Panama did not answer this question. Peru replies that it does not have the information. All
+countries collect data on the amount of expenditures except for Chile that does not collect R&D
+expenditures since these are included in the R&D survey conducted separately. These
+expenditures are available in absolute value for all countries. This information is also provided in
+the results presented as a percentage of sales by Brazil, Peru and Uruguay and as a
+percentage of GDP by Ecuador. In the case of Argentina, although data is collected in absolute
+value, in the anonymized database this information is only available as a percentage of total
+expenditure (total expenditure on innovation activities is available as a percentage of sales in
+this database).
+Spending in innovation activities refers to all types of innovation in most cases. However, in the
+case of Brazil and Ecuador, it refers only to product or process innovation. In the Ecuador
+survey, information on investments related to organizational or marketing innovation is also
+provided for the entire reference period (there is no breakdown per year). Chile is thinking in no
+longer considering these expenditures as inputs for non-technological innovation and thus direct
+the questions on innovation expenditures that are dedicated to technological innovation
+exclusively, as in the Community Innovation Surveys (CIS).
+4. Characterization of the Innovation Results
+All countries use the OM typology of innovations: product, process, organizational and
+marketing. In addition to these, Chile includes social innovation. Brazil notes that it does not use
+these four types of innovation when it comes to the impacts of innovation, but only considers
+product and process innovation (unlike CIS). Only Argentina, Brazil, Colombia and Ecuador use
+a distinction between new and significantly improved product / process, as they consider this
+information useful to evaluate the degree of novelty of the innovation. Although, Costa Rica and Peru do not make this distinction, they also find it useful. However, Chile, Mexico and Uruguay
+do not think this distinction is useful. Mexico considers that it would be difficult to ask for more
+types of innovation. As far as the scope of innovation is concerned, all the countries interviewed
+distinguish between innovation at the level of the firm, domestic market and international
+market. Yet, Chile distinguishes between innovation at the level of the firm and of the market
+(which includes the domestic and international markets).
+In almost all countries, innovation in design is part of product innovation. Colombia justifies this
+classification because innovation in design is associated with the development of new products.
+In Chile, the innovation in design is considered as product innovation only when it modifies the
+functional characteristics or of use of the product. Mexico and Peru are the only two countries
+interviewed including innovation in design within the marketing innovations. In Brazil, only
+innovations with purely aesthetic aspects are included in marketing innovation. Finally, Panama
+classifies innovation in design in each of the typologies of innovation (product, process,
+organization, marketing).
+In almost all countries (except for Colombia), the typology of innovations is the same as the one
+presented in the results of the final reports. In Colombia, it is different since results are
+presented as to whether the firms are innovative in the strict sense (at the level of the
+international market), in a broader sense (at the level of the firm and of the domestic market) or
+potentially innovators (firms that perform innovation activities but have not obtained an
+innovation or abandoned it); the latter group corresponds to the innovation active firms in the
+OM. The survey questionnaire is the same for all sectors in all countries except for Mexico.
+However, in Brazil, there is a marginal adaptation for the service sector and in Costa Rica, the
+examples included in the questionnaire are adapted to the sector. In the case of Mexico, it is
+stated "for the rest of the sectors no question on innovation is asked." 9
+In several countries, such as Argentina, Brazil, Costa Rica, Ecuador and Uruguay, the results of
+the innovation surveys are used to monitor the goals and evaluate STI policies. Uruguay
+considers the variable measuring product innovation very important and affirms that it is widely
+used in impact assessment. However, according to this respondent, the classification as such is
+sufficient. In Costa Rica, Ecuador and Mexico, these data (mainly the ones on expenditures and
+innovative firms in the case of Mexico) are used for policy making. Peru uses the results of the
+innovation survey to support the design of new public policy instruments for innovation and
+especially those related to the promotion of start-ups. In the case of Colombia, innovation
+surveys are used more for academic purposes than for public policy making. However, there is
+an increase in the use of these surveys and, in particular, the variable measuring the degree of
+novelty of product innovation for making regional STI policies, the national policy for STI and
+monitoring the execution of resources linked to royalties for STI. The major problem for
+Colombia, according to the respondent of the questionnaire, is the appropriation of the
+information. Although it has not been used, Mexico also considers that it would be useful to
+have a classification on the degree of product innovation to evaluate the progress in innovation
+in each country. Additionally, according to the respondent of Peru, it is important to have a
+harmonized and globally accepted definition of innovation used by all the countries of the region
+as the competitiveness challenges take place at the global level. In general, the data of the
+innovation surveys in Chile are mainly used by the government and other institutions to
+establish the conceptual framework of the state of innovation and in academic work. The
+respondent of Chile notes that it is extremely difficult to use the data of the innovation survey to
+do impact evaluation because it is very difficult to match it with other administrative data linked to public policies for innovation. This difficulty comes from the fact that the data is anonymized
+for confidentiality reasons and that there exist important statistical differences between the
+datasets.
+5. Measuring Barriers to Innovation
+Ecuador and Panama are the only two countries interviewed that dedicate part of their
+questionnaire on the obstacles explicitly linked to the decision to innovate. In the case of Costa
+Rica y Chile, they include some questions on the obstacles related to the decision to innovate
+among the questions about obstacles to innovation. In these countries, the questions are not
+addressed to firms that did not innovate as it is the case for Ecuador and Panama. In terms of
+the typology of obstacles to capture the reasons for not innovating, Chile and Ecuador use very
+similar questions, that is: (i) the fact that innovations were introduced previously and (ii) the fact
+that there was a lack of demand for innovation. Costa Rica asks: (i) "whether the firm had
+recently innovated" and (ii) “whether it was not considered necessary to make any innovation."
+All countries are asking about obstacles to innovation, that is the obstacles a firm can
+encountered once it has decided to dedicate resources to innovation. Uruguay is the only
+country in which this question is asked only to firms that innovated. The rest of the countries ask
+to firms that innovated as well as firms that did not.
+As for the typology of obstacles, there is a great diversity of questions. In terms of cost factors,
+all countries except for Panama, ask about the existence of high costs or low returns to
+innovation. Argentina and Panama also ask about the obstacle related to a period of returns
+considered too long. The fear of failure of innovation is considered by six countries (Colombia,
+Costa Rica, Mexico, Panama, Peru and Uruguay). With the exception of Panama, all countries
+are asking about the existence of obstacles related to the lack of financing. Chile, Colombia,
+Costa Rica, Ecuador and Peru make a breakdown between internal and external financing.
+Argentina differentiates between the difficulty of access and the high costs of financing. Brazil
+only takes into account the lack of external financing.
+In terms of knowledge factors, all countries are asking about the lack of qualified personnel as
+an obstacle. Ecuador is the only country that distinguishes between the lack of qualified
+personnel in the firm and in the country. In addition, Panama includes a question about the
+existence of high training costs as an obstacle to innovation. All countries include the question
+relative to the lack of information about the markets and the lack of information about the
+technology, except for Argentina. The obstacle question regarding the difficulty of finding cooperation
+partners is found in eight of the ten countries interviewed (Brazil, Chile, Colombia,
+Costa Rica, Ecuador, Panama, Peru and Uruguay). Argentina considers as a potential obstacle
+the scarcity of technical assistance. The question concerning organizational rigidity of the firm is
+also present in the last survey of most countries (Argentina, Brazil, Costa Rica, Mexico,
+Panama, Peru and Uruguay). Only Argentina considers limited productive capacity as a
+possible obstacle. Additionally, Argentina considers the lack of correspondence between the
+supply of knowledge and the requirements of the firm as an obstacle to innovation.
+As for market factors, very few countries follow the OM recommendations. Only Chile, Ecuador,
+Panama and Peru ask for the existence of a market dominated by established firms as a
+potential obstacle to innovation. The uncertainty of the demand for innovative products is
+considered as a possible obstacle only by Chile, Brazil, Colombia, Ecuador and Peru. Similarly,
+Mexico considers the lack of receptivity of the clients to new products. In addition, several countries consider the structure of the market as a potential obstacle to innovation and in
+particular the small size of the market, as well as the lack of technological opportunities in the
+sector (Costa Rica, Panama, Uruguay). Argentina and Uruguay also take into account
+macroeconomic instability as a possible obstacle. Finally, Argentina acknowledges unfair
+competition as a potential obstacle.
+With regard to institutional factors, the difficulty of protecting innovations and/or the weakness of
+the system of intellectual property rights is often present in the innovation surveys of most of the
+countries interviewed (Argentina, Colombia, Costa Rica, Panama, Peru and Uruguay). The lack
+of public policies on STI is also a potential common obstacle in many surveys (Colombia, Costa
+Rica, Mexico, Panama, Peru and Uruguay). However, there is a certain diversity in the type of
+obstacle related to public policies in STI, including the lack of public support, policy errors and
+the existence of underdeveloped institutions. The lack of physical infrastructure is considered as
+a potential obstacle only in Costa Rica, Panama, Peru and Uruguay. In addition, Argentina,
+Chile and Mexico consider obstacles to innovation derived from current legislation. Argentina
+includes the importance of bureaucracy and legal uncertainty as an obstacle to innovation.
+In Costa Rica, Ecuador and Peru, the answers related to obstacles to innovation are used for
+the development of public policies and analyses to determine the key obstacles affecting firms
+in the country. For example, in Peru, the results on obstacles to innovation were used to design
+innovation promotion tools such as the training of researchers and technicians, the creation of
+incentives to hire PhDs in firms, the establishment of R&D and innovation units in firms, the
+repatriation of scientists, the design of competitive funds among others. In Costa Rica, Ecuador
+and Peru, the typology of obstacles used is very similar to the one recommended by the OM. In
+addition, Costa Rica uses a set of additional questions that are of interest to the country. Peru
+considers that this typology is relatively complete given that the questionnaire is addressed to a
+diverse range of firms within the manufacturing sector. However, Peru notes that there may be
+other obstacles which are specific to the sub-sectors or the location in the production chains. In
+Brazil, these results have been used as well (there were no further details on the way they were
+used and to which purpose). However, in Uruguay, these results have not been used a lot for
+policy design and in Mexico they have not been used at all as of now. Uruguay considers that
+the low exploitation of these results is explained by the difficulty of capturing some obstacles
+such as that related to the application to an innovation project due to the lack of knowledge of
+existing programs. In addition, using the same questionnaire for all sectors does not capture the
+differences between sectors when it comes to questions about technologies. In Uruguay, when
+an obstacle is found to be gaining in importance for firms, questions about this obstacle are
+deepened in the next round of the survey to better understand the nature of this change. In
+Colombia, the use of information on obstacles to innovation are more exploited in academic
+work than for policy design or evaluation, as it is the case for the information on innovation
+results mentioned above. However, the respondent considers it to be a valuable source of
+information for public policy. In addition, Colombia notes that it may be interesting to realize a
+breakdown of co-operation obstacles between co-operation with other firms, knowledgegenerating
+institutions (universities and research centers) and a breakdown of obstacles linked
+to external financing according to its source (private and public).
+Finally, Argentina focused on the distinction between internal and external obstacles to the firm
+without considering the distinction between the different types of obstacles listed in the OM
+(cost, knowledge, market, institutional).6. Other Observations
+Argentina notes the importance of considering the transformations of other dimensions of the
+firms such as the size, the sector, the location and the efforts to qualify human capital through
+training processes as well as a better management and organization of the labor force and of
+knowledge. It is also important to account for the integration of these dimensions through the
+dynamics of the incorporation of new ICT in the productive, commercial and financial processes.
+In particular, the innovation survey of Argentina aims at capturing the complexity of the link
+between employment and innovation through several dimensions such as:
+• the number of workers per skill level and hierarchical level during each of the reference
+years,
+• the remuneration of these workers with a breakdown by hierarchy and skill level,
+• the management tools of the labor force,
+• the training processes,
+• the organization of work,
+• the emergence/disappearance of occupations as a consequence of innovation, and
+• the management of knowledge.
